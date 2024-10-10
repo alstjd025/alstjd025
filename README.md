@@ -1,5 +1,5 @@
 [![Minsung Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd025)](https://github.com/alstjd025/github-readme-stats)
-https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true
+https://github-readme-stats.vercel.app/api?username=alstjd025)&hide=stars,contribs&count_private=true
 <!--
 **alstjd025/alstjd025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
